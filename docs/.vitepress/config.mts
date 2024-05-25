@@ -7,6 +7,7 @@ export default defineConfig({
     title: "mixtet",
     description: "mixtet博客",
     themeConfig: {
+        // 头部导航框
         search: {
             provider: "local",
         },
@@ -31,10 +32,12 @@ export default defineConfig({
         //     },
         // ],
 
+        // github 链接
         socialLinks: [{ icon: "github", link: "https://github.com/mixtet/luyuxiang-blog/tree/master" }],
 
         logo: "/avatar.png",
 
+        // 侧边栏导航
         outline: {
             level: [1, 6],
             label: "目录",
