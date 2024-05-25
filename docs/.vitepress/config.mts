@@ -7,6 +7,9 @@ export default defineConfig({
     title: "mixtet",
     description: "mixtet博客",
     themeConfig: {
+        search: {
+            provider: "local",
+        },
         // https://vitepress.dev/reference/default-theme-config
         // nav: [
         //     { text: "Home", link: "/" },
@@ -28,7 +31,7 @@ export default defineConfig({
         //     },
         // ],
 
-        socialLinks: [{ icon: "github", link: "https://github.com/vuejs/vitepress" }],
+        socialLinks: [{ icon: "github", link: "https://github.com/mixtet/luyuxiang-blog/tree/master" }],
 
         logo: "/avatar.png",
 

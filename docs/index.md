@@ -5,17 +5,17 @@ layout: home
 hero:
     name: "mixtet"
     text: "前端开发程序员"
-    tagline: /前端开发/nodejs
+    tagline: /Vue/小程序/uniapp/nodejs
     image:
         src: /avatar.png
         alt: avatar
     actions:
         - theme: brand
-          text: Markdown Examples
-          link: /markdown-examples
+          text: 大前端
+          link: /column/LargeFrontEnd2024/100_架构
         - theme: alt
-          text: API Examples
-          link: /api-examples
+          text: 前端面试
+          link: /column/interview/document
 
 features:
     - title: Feature A
@@ -27,9 +27,9 @@ features:
 ---
 
 <!-- 自定义组件 -->
-<script setup>
+<!-- <script setup>
 import home from "./components/home.vue"
 
 </script>
 
-<home />
+<home /> -->

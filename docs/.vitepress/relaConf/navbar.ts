@@ -14,11 +14,7 @@ export const nav: DefaultTheme.NavItem[] = [
             },
             {
                 text: "面试",
-                link: "column/interview/document",
-            },
-            {
-                text: "基础",
-                link: "column/interview/baseWeb",
+                link: "/column/interview/document",
             },
         ],
     },
