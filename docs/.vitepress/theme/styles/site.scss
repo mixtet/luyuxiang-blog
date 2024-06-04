@@ -1,0 +1,40 @@
+/**
+  网址导航页面样式
+**/
+
+.site-layout {
+    .VPDoc {
+        padding: 0;
+        margin: 0;
+        .container {
+            max-width: 100% !important;
+            justify-content: flex-start !important;
+            .aside {
+                display: none !important;
+                .aside-container,
+                .aside-curtain {
+                    display: none !important;
+                }
+            }
+            .content {
+                padding: 0;
+                margin: 0;
+                max-width: 100% !important;
+                .content-container {
+                    max-width: 100% !important;
+                }
+            }
+            // .main {
+            //     height: auto;
+            //     overflow: hidden;
+            //     .vp-doc h2 {
+            //         margin: 0;
+            //     }
+            // }
+        }
+    }
+    /* 隐藏底部在 github 上编辑此页模块*/
+    // .VPDocFooter {
+    //     display: none;
+    // }
+}

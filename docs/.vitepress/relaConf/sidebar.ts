@@ -14,8 +14,12 @@ export const sidebar: DefaultTheme.Sidebar = {
                     link: "/column/LargeFrontEnd2024/200_需求分析能力",
                 },
                 {
-                    text: "前端开发&调试双击破, nvm",
+                    text: "nvm,npm发包",
                     link: "/column/LargeFrontEnd2024/300_前端开发&调试双击破",
+                },
+                {
+                    text: "前端调试",
+                    link: "/column/LargeFrontEnd2024/301_前端调试",
                 },
             ],
         },
@@ -35,6 +39,17 @@ export const sidebar: DefaultTheme.Sidebar = {
                 {
                     text: "前端面试题目",
                     link: "/column/interview/topic",
+                },
+            ],
+        },
+    ],
+    "/column/LargeFrontEnd2023": [
+        {
+            text: "大前端2023",
+            items: [
+                {
+                    text: "NoSQL",
+                    link: "/column/LargeFrontEnd2024/100_NoSQL",
                 },
             ],
         },

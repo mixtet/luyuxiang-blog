@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="home">
         sss
         <!-- <img v-for="k in Object.keys(modules)" :key="k" :src="modules[k].default" /> -->
     </div>

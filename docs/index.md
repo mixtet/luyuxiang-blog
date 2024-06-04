@@ -18,8 +18,8 @@ hero:
           link: /column/interview/document
 
 features:
-    - title: Feature A
-      details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - title: 可接单
+      details: 4年前端开发经验，有需要联系我，QQ 3195341483 微信 18775368845
     - title: Feature B
       details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
     - title: Feature C
